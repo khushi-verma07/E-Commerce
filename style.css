@@ -133,12 +133,12 @@ body{
     font-size: 24px;
 }
 #hero{
-    background-image: url(IMG/girl1.jpg);
+    background-image: url('fashion_hero.png?v=2');
     height: 93vh;
     width: 100%;
     background-repeat: no-repeat;
-    /* background-size: cover; */
-    background-position: top 12% right 0;
+    background-size: cover;
+    background-position: center;
     padding: 0 80px;
     display: flex;
     flex-direction: column;
