@@ -138,7 +138,7 @@ body{
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: top;
     padding: 0 80px;
     display: flex;
     flex-direction: column;
